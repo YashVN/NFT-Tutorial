@@ -12,3 +12,5 @@ contract NFTee is ERC721 {
         _mint(msg.sender, 1);
     }
 }
+
+// ERC721 repo has built in functions for NFT creation 
